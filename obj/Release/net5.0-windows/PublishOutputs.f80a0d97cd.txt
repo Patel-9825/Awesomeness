@@ -1,0 +1,5 @@
+C:\Users\owner\source\repos\Awesomeness\bin\Release\net5.0-windows\publish\Awesomeness.exe
+C:\Users\owner\source\repos\Awesomeness\bin\Release\net5.0-windows\publish\Awesomeness.dll
+C:\Users\owner\source\repos\Awesomeness\bin\Release\net5.0-windows\publish\Awesomeness.deps.json
+C:\Users\owner\source\repos\Awesomeness\bin\Release\net5.0-windows\publish\Awesomeness.runtimeconfig.json
+C:\Users\owner\source\repos\Awesomeness\bin\Release\net5.0-windows\publish\Awesomeness.pdb
